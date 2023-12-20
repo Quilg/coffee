@@ -1,0 +1,4 @@
+employee_id,username,password,role
+1,clerk,1234,clerk
+2,delivery,1234,delivery
+3,manager,1234,manager
